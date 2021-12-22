@@ -3,4 +3,6 @@ int a=100;
 int b=200;
 int sum= a+b;
 System.out.prinntln("Sum of a and b is :"+sum);
+int c=15;
+System.out.println(" final value is :+(sum*c));
 }
